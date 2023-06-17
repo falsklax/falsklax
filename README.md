@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @falsklax
-- 👀 Snorlox was busy, so it had to be falsklax :(
+/me is @falsklax
+- 👀 Snorlox was busy, so it had to be falsklax :/
 - 🌱 I’m currently expanding my n00b-ish knowledge on Python for network-based automation tasks ...
 
 <!---
